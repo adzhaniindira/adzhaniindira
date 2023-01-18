@@ -1,7 +1,7 @@
 ### :wave: Hi I'm [Indira](https://www.linkedin.com/in/adzhanindira), a recent Business Analytics graduate with 5 years of experience in marketing research.
 -----
 More about me:
- - 🔭Python is my first language, and I'm currently brushing up my SQL skill.
+ - 🔭 Python is my first language, and I'm currently brushing up my SQL skill.
  - ⚡ In my spare time, I bake or read books on psychology or behavioural economics.
  - 👯 I’m looking to collaborate on projects on marketing analytics or consumer behaviour.
 
