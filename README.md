@@ -6,11 +6,11 @@ More about me:
  - 👯 I’m looking to collaborate on projects on marketing analytics or consumer behaviour.
 
 
-### Check out my latest Medium posts
+#### Check out my latest Medium posts
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adzhaniindira/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adzhaniindira/0" alt="Recent Article 0"> 
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adzhaniindira/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adzhaniindira/2" alt="Recent Article 1"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adzhaniindira/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adzhaniindira/1" alt="Recent Article 1"> 
 
 
 <!--
